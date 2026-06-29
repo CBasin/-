@@ -6,6 +6,7 @@
 
 - [NumPy 中 `matrix` 的入门笔记](notes/numpy_matrix_notes.md)
 - [`matplotlib.pyplot` 常用函数入门笔记](notes/matplotlib_pyplot_notes.md)
+- [Pandas 读取文件基础操作指南](notes/pandas_reading_files_notes.md)
 
 ## 练习题
 
