@@ -6,3 +6,7 @@
 
 - [NumPy 中 `matrix` 的入门笔记](notes/numpy_matrix_notes.md)
 - [`matplotlib.pyplot` 常用函数入门笔记](notes/matplotlib_pyplot_notes.md)
+
+## 练习题
+
+- [`matplotlib.pyplot` 绘制图表练习题](exercises/matplotlib_pyplot_exercises.md)
